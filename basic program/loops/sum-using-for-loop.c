@@ -13,10 +13,5 @@ int main(){
      sum+=m;
     }  
     printf("%d",sum);
-    
-    
-    
-    
-
     return 0;
 }

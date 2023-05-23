@@ -1,3 +1,5 @@
+//sum of numbers in for loop//
+
 #include<stdio.h>
 int main(){
     int n;

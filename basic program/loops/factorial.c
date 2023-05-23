@@ -1,3 +1,4 @@
+//factorial using for loop//
 #include<stdio.h>
 int main(){
     int n;

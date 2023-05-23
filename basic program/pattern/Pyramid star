@@ -1,4 +1,6 @@
-
+//this is a copied code from video lecture //
+//I m still having a problem in understanding it//
+//will surely work on this//
 
 #include<stdio.h>
 int main(){

@@ -1,3 +1,4 @@
+//calculating simple interest//
 #include<stdio.h>
 int main(){
 int p,r,t,si;

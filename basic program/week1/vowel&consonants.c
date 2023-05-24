@@ -1,3 +1,5 @@
+//checking if the alphabet is vowel or not//
+//used switch statement here//
 #include<stdio.h>
 int main(){
    char c;

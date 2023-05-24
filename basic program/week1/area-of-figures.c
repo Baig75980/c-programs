@@ -1,3 +1,5 @@
+//area of triangle🔺,rectangle,circle//
+//calculating it by taking input from user//
 #include<stdio.h>
 int main(){
   int l,d,area;

@@ -1,3 +1,5 @@
+//converting °C to °F//
+//taking input from user//
 #include<stdio.h>
 int main(){
 int f,c;

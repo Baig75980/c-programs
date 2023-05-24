@@ -1,3 +1,6 @@
+//calculating percentage by taking marks in diff subject//
+//taking it from user and giving results//
+//also used if else conditions//
 #include<stdio.h>
 int main(){
    

@@ -1,4 +1,6 @@
- #include<stdio.h>
+//checking whether the number is odd or even//
+//taking input from user and giving result//
+#include<stdio.h>
  int main(){
  int s;
     printf("\nEnter any no=");
